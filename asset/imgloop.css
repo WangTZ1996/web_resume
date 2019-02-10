@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.imgloop{
+	position: relative;
+	height: 600px;
+	width: 800px;
+	overflow: hidden;
+}
+.imglist {
+	position: relative;
+	width: 4800px;
+	/*left: 0px;*/
+}
+.imglist img{
+	float: left;
+}
